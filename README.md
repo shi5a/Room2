@@ -13,4 +13,7 @@
 
 
 #### Group 2 members: 
-  
+  * Shaima AlHarbi
+  * Shaima AlJahani
+  * Latifa AlNaim
+  * Shaikha AlBilais
